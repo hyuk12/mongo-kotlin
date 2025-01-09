@@ -215,7 +215,7 @@ gradle-app.setting
 *.hprof
 
 ### mongo-db-data
-./mongo-data/**
+./mongo-data
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,intellij+all,gradle,kotlin,java
 
